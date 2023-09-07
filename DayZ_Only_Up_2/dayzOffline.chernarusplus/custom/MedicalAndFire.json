@@ -1,0 +1,814 @@
+{
+                      "Objects": [
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9482.549805,
+              490.045776,
+              11078.628906
+            ],
+              "ypr": [
+              173.931259,
+              0,
+              0
+              ],
+              "scale": 0.999994,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9483.651367,
+              490.045776,
+              11078.77832
+            ],
+              "ypr": [
+              173.931259,
+              0,
+              0
+              ],
+              "scale": 0.999994,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9483.208984,
+              490.045776,
+              11082.305664
+            ],
+              "ypr": [
+              173.931259,
+              0,
+              0
+              ],
+              "scale": 0.999994,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9482.512695,
+              490.045776,
+              11082.210938
+            ],
+              "ypr": [
+              173.931259,
+              0,
+              0
+              ],
+              "scale": 0.999994,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9481.777344,
+              490.045776,
+              11082.134766
+            ],
+              "ypr": [
+              173.931259,
+              0,
+              0
+              ],
+              "scale": 0.999994,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9483.608398,
+              490.045776,
+              11081.979492
+            ],
+              "ypr": [
+              -96.068146,
+              0,
+              0
+              ],
+              "scale": 0.999993,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9483.664063,
+              490.045776,
+              11081.307617
+            ],
+              "ypr": [
+              -96.068146,
+              0,
+              0
+              ],
+              "scale": 0.999993,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9483.961914,
+              490.045776,
+              11079.15625
+            ],
+              "ypr": [
+              -96.068146,
+              0,
+              0
+              ],
+              "scale": 0.999993,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9484.072266,
+              490.045776,
+              11078.469727
+            ],
+              "ypr": [
+              -96.068146,
+              0,
+              0
+              ],
+              "scale": 0.999993,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_bucket",
+              "pos": [
+              9482.402344,
+              489.993805,
+              11080.876953
+            ],
+              "ypr": [
+              173.931259,
+              0,
+              0
+              ],
+              "scale": 0.999994,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9483.211914,
+              489.952118,
+              11078.697266
+            ],
+              "ypr": [
+              83.931717,
+              0,
+              179.999893
+              ],
+              "scale": 0.999993,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_hospital_transport_bed",
+              "pos": [
+              9482.552734,
+              488.983795,
+              11080.181641
+            ],
+              "ypr": [
+              -96.068146,
+              0,
+              0
+              ],
+              "scale": 0.999993,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_medical_table",
+              "pos": [
+              9482.299805,
+              488.983795,
+              11080.905273
+            ],
+              "ypr": [
+              -172.067749,
+              0,
+              0
+              ],
+              "scale": 0.999994,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9483.743164,
+              489.952118,
+              11080.861328
+            ],
+              "ypr": [
+              -6.068424,
+              0,
+              179.999893
+              ],
+              "scale": 0.999993,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9483.623047,
+              489.952118,
+              11082.421875
+            ],
+              "ypr": [
+              -146.067978,
+              0,
+              179.999893
+              ],
+              "scale": 0.999992,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9483.904297,
+              489.952118,
+              11079.647461
+            ],
+              "ypr": [
+              173.931259,
+              0,
+              179.999893
+              ],
+              "scale": 0.999993,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9484.135742,
+              489.952118,
+              11078.844727
+            ],
+              "ypr": [
+              -96.068146,
+              0,
+              179.999893
+              ],
+              "scale": 0.999993,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_patient_monitor",
+              "pos": [
+              9481.87207,
+              488.983795,
+              11079.359375
+            ],
+              "ypr": [
+              -41.068207,
+              0,
+              0
+              ],
+              "scale": 0.999994,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9483.020508,
+              489.952118,
+              11078.664063
+            ],
+              "ypr": [
+              -96.068146,
+              0,
+              -179.999893
+              ],
+              "scale": 0.999993,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9484.120117,
+              489.952118,
+              11077.994141
+            ],
+              "ypr": [
+              -6.068257,
+              0,
+              179.999893
+              ],
+              "scale": 0.999994,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9482.125,
+              489.952118,
+              11082.037109
+            ],
+              "ypr": [
+              -6.068424,
+              0,
+              179.999893
+              ],
+              "scale": 0.999993,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9481.400391,
+              489.952118,
+              11081.963867
+            ],
+              "ypr": [
+              -6.068257,
+              0,
+              179.999893
+              ],
+              "scale": 0.999994,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9395.553711,
+              657.785767,
+              11271.063477
+            ],
+              "ypr": [
+              137.548126,
+              0,
+              0
+              ],
+              "scale": 0.999992,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9396.354492,
+              657.785767,
+              11271.842773
+            ],
+              "ypr": [
+              137.548126,
+              0,
+              0
+              ],
+              "scale": 0.999992,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9393.911133,
+              657.785767,
+              11274.411133
+            ],
+              "ypr": [
+              137.548126,
+              0,
+              0
+              ],
+              "scale": 0.999992,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9393.399414,
+              657.785767,
+              11273.928711
+            ],
+              "ypr": [
+              137.548126,
+              0,
+              0
+              ],
+              "scale": 0.999992,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9392.849609,
+              657.785767,
+              11273.430664
+            ],
+              "ypr": [
+              137.548126,
+              0,
+              0
+              ],
+              "scale": 0.999992,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9394.426758,
+              657.785767,
+              11274.391602
+            ],
+              "ypr": [
+              -132.450974,
+              0,
+              0
+              ],
+              "scale": 0.999992,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9394.857422,
+              657.785767,
+              11273.883789
+            ],
+              "ypr": [
+              -132.450974,
+              0,
+              0
+              ],
+              "scale": 0.999992,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9396.383789,
+              657.785767,
+              11272.326172
+            ],
+              "ypr": [
+              -132.450974,
+              0,
+              0
+              ],
+              "scale": 0.999991,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9396.878906,
+              657.785767,
+              11271.845703
+            ],
+              "ypr": [
+              -132.450974,
+              0,
+              0
+              ],
+              "scale": 0.999992,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_bucket",
+              "pos": [
+              9394.103516,
+              657.733765,
+              11272.779297
+            ],
+              "ypr": [
+              137.548126,
+              0,
+              0
+              ],
+              "scale": 0.999992,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9396.044922,
+              657.692139,
+              11271.516602
+            ],
+              "ypr": [
+              47.548862,
+              0,
+              179.999893
+              ],
+              "scale": 0.999991,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_hospital_transport_bed",
+              "pos": [
+              9394.633789,
+              656.723755,
+              11272.316406
+            ],
+              "ypr": [
+              -132.450974,
+              0,
+              0
+              ],
+              "scale": 0.999992,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_medical_table",
+              "pos": [
+              9394.001953,
+              656.723755,
+              11272.744141
+            ],
+              "ypr": [
+              151.549454,
+              0,
+              0
+              ],
+              "scale": 0.999993,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9395.186523,
+              657.692139,
+              11273.568359
+            ],
+              "ypr": [
+              -42.451244,
+              0,
+              179.999893
+              ],
+              "scale": 0.999991,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9394.167969,
+              657.692139,
+              11274.749023
+            ],
+              "ypr": [
+              177.549271,
+              0,
+              179.999893
+              ],
+              "scale": 0.99999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9396.048828,
+              657.692139,
+              11272.689453
+            ],
+              "ypr": [
+              137.548126,
+              0,
+              179.999893
+              ],
+              "scale": 0.999992,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9396.708984,
+              657.692139,
+              11272.181641
+            ],
+              "ypr": [
+              -132.450974,
+              0,
+              179.999893
+              ],
+              "scale": 0.999991,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_patient_monitor",
+              "pos": [
+              9394.574219,
+              656.723755,
+              11271.24707
+            ],
+              "ypr": [
+              -77.450989,
+              0,
+              0
+              ],
+              "scale": 0.999993,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9395.914063,
+              657.692139,
+              11271.370117
+            ],
+              "ypr": [
+              -132.450974,
+              0,
+              -179.999893
+              ],
+              "scale": 0.999992,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9397.199219,
+              657.692139,
+              11271.487305
+            ],
+              "ypr": [
+              -42.451077,
+              0,
+              179.999893
+              ],
+              "scale": 0.999992,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9393.1875,
+              657.692139,
+              11273.558594
+            ],
+              "ypr": [
+              -42.451244,
+              0,
+              179.999893
+              ],
+              "scale": 0.999991,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_fen2_pole",
+              "pos": [
+              9392.654297,
+              657.692139,
+              11273.071289
+            ],
+              "ypr": [
+              -42.451077,
+              0,
+              179.999893
+              ],
+              "scale": 0.999992,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9395.040039,
+              657.796143,
+              11270.616211
+            ],
+              "ypr": [
+              137.548126,
+              0,
+              0
+              ],
+              "scale": 0.999992,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Bonfire",
+              "pos": [
+              9349.694336,
+              558.039673,
+              11133.822266
+            ],
+              "ypr": [
+              -102.845795,
+              0,
+              0
+              ],
+              "scale": 0.0179987,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Garbage_Container2_Open",
+              "pos": [
+              9349.80957,
+              557.720581,
+              11133.878906
+            ],
+              "ypr": [
+              -88.665176,
+              0,
+              0
+              ],
+              "scale": 0.99999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Misc_WoodTable_Indoor",
+              "pos": [
+              9345.467773,
+              557.286926,
+              11133.948242
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Misc_WoodTable_Outdoor",
+              "pos": [
+              9354.727539,
+              557.375,
+              11133.882813
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "SodaCan_Pipsi",
+              "pos": [
+              9354.719727,
+              557.896973,
+              11133.400391
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "SodaCan_Pipsi",
+              "pos": [
+              9354.589844,
+              557.881958,
+              11134.400391
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Chips",
+              "pos": [
+              9345.450195,
+              557.656921,
+              11134.099609
+            ],
+              "ypr": [
+              145.622528,
+              -89.790642,
+              179.999908
+              ],
+              "scale": 0.999999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "SaltySticks",
+              "pos": [
+              9345.360352,
+              557.662476,
+              11133.5
+            ],
+              "ypr": [
+              150.634995,
+              -89.096474,
+              179.999893
+              ],
+              "scale": 0.999995,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_furniture_drapes_long",
+              "pos": [
+              9481.874023,
+              490.056152,
+              11078.576172
+            ],
+              "ypr": [
+              173.931259,
+              0,
+              0
+              ],
+              "scale": 0.999994,
+              "enableCEPersistency": false
+          }
+			]
+            }

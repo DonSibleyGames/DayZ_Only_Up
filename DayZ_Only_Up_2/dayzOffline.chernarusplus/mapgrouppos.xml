@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<map>
+	<group name="Land_Misc_Well_Pump_Blue" pos="9368.456055 397.089508 11216.925781" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Misc_Well_Pump_Blue" pos="9476.347656 489.616638 11076.498047" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Misc_Well_Pump_Blue" pos="9094.740234 605.38 11254.005859" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Misc_Well_Pump_Blue" pos="9385.802734 657.354187 11263.083008" rpy="-0.000000 -0.000000 0.859436" a="89.140564"/>
+	<group name="Land_Misc_Well_Pump_Blue" pos="9001.986328 717.288940 11549.455078" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	
+	<group name="medical_station" pos="9394.001953 656.723755 11272.744141" rpy="-0.000000 0.000000 151.549454" a="-61.549454"/>
+	<group name="medical_station" pos="9482.299805 488.983795 11080.905273" rpy="-0.000000 0.000000 -172.067749" a="-97.93225100000001"/>
+
+</map>

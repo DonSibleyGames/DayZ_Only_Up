@@ -1,0 +1,379 @@
+{
+                      "Objects": [
+{
+              "name": "StaticObj_Roadblock_Wood_Long",
+              "pos": [
+              9210.970703,
+              722.310669,
+              11340.625
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Roadblock_Wood_Long",
+              "pos": [
+              9206.169922,
+              722.295837,
+              11342.5625
+            ],
+              "ypr": [
+              -126.049164,
+              0,
+              0
+              ],
+              "scale": 0.999986,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Misc_Well_Pump_Blue",
+              "pos": [
+              9368.456055,
+              397.089508,
+              11216.925781
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Misc_Well_Pump_Blue",
+              "pos": [
+              9476.347656,
+              489.616638,
+              11076.498047
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_indcnc_10",
+              "pos": [
+              9236.87207,
+              557.639404,
+              11038.482422
+            ],
+              "ypr": [
+              -93.979637,
+              0,
+              0
+              ],
+              "scale": 1.01523,
+              "enableCEPersistency": false
+          },
+{
+              "name": "staticobj_wall_indcnc_10",
+              "pos": [
+              9226.805664,
+              557.595947,
+              11037.863281
+            ],
+              "ypr": [
+              -93.979637,
+              0,
+              0
+              ],
+              "scale": 1.01523,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Misc_Well_Pump_Blue",
+              "pos": [
+              9094.740234,
+              605.38,
+              11254.005859
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Bonfire",
+              "pos": [
+              9387.525391,
+              657.789124,
+              11269.397461
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 0.0179988,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Garbage_Container2_Open",
+              "pos": [
+              9387.553711,
+              657.469971,
+              11269.273438
+            ],
+              "ypr": [
+              14.180649,
+              0,
+              0
+              ],
+              "scale": 0.999993,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Misc_Well_Pump_Blue",
+              "pos": [
+              9385.802734,
+              657.354187,
+              11263.083008
+            ],
+              "ypr": [
+              0.859436,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_office_desk",
+              "pos": [
+              9379.328125,
+              657.040344,
+              11263.626953
+            ],
+              "ypr": [
+              13.607625,
+              0,
+              0
+              ],
+              "scale": 0.999991,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Binoculars",
+              "pos": [
+              9379.797852,
+              657.550476,
+              11263.540039
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Binoculars",
+              "pos": [
+              9378.770508,
+              657.538635,
+              11263.856445
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_Desk_Globe",
+              "pos": [
+              9379.413086,
+              657.659546,
+              11263.814453
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Land_Misc_Well_Pump_Blue",
+              "pos": [
+              9001.986328,
+              717.28894,
+              11549.455078
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Bonfire",
+              "pos": [
+              9003.912109,
+              717.701294,
+              11553.432617
+            ],
+              "ypr": [
+              -2.291827,
+              0,
+              0
+              ],
+              "scale": 0.0179987,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Garbage_Container2_Open",
+              "pos": [
+              9003.945313,
+              717.382202,
+              11553.30957
+            ],
+              "ypr": [
+              11.888812,
+              0,
+              0
+              ],
+              "scale": 0.999991,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Sidewalk3_Narrow_Corner",
+              "pos": [
+              9007.761719,
+              716.452881,
+              11547.427734
+            ],
+              "ypr": [
+              -66.606369,
+              0,
+              0
+              ],
+              "scale": 0.999994,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Sidewalk3_Narrow_Corner",
+              "pos": [
+              9006.955078,
+              716.433472,
+              11548.188477
+            ],
+              "ypr": [
+              -118.029388,
+              0,
+              0
+              ],
+              "scale": 0.999986,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Sidewalk3_Narrow_Corner",
+              "pos": [
+              9007.969727,
+              716.457153,
+              11546.035156
+            ],
+              "ypr": [
+              -26.212151,
+              0,
+              0
+              ],
+              "scale": 0.999986,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Sidewalk3_Narrow_Corner",
+              "pos": [
+              9006.623047,
+              716.456665,
+              11545.28418
+            ],
+              "ypr": [
+              54.001324,
+              0,
+              0
+              ],
+              "scale": 0.999959,
+              "enableCEPersistency": false
+          },
+{
+              "name": "StaticObj_Furniture_kitchen_table_a",
+              "pos": [
+              9209.009766,
+              721.692322,
+              11342.392578
+            ],
+              "ypr": [
+              -69.041847,
+              0,
+              0
+              ],
+              "scale": 0.99999,
+              "enableCEPersistency": false
+          },
+{
+              "name": "FireworksLauncher",
+              "pos": [
+              9209.047852,
+              722.49176,
+              11342.473633
+            ],
+              "ypr": [
+              17.905275,
+              0,
+              0
+              ],
+              "scale": 0.999991,
+              "enableCEPersistency": false
+          },
+{
+              "name": "PetrolLighter",
+              "pos": [
+              9209.493164,
+              722.502075,
+              11342.391602
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          },
+{
+              "name": "Binoculars",
+              "pos": [
+              9208.612305,
+              722.562622,
+              11342.574219
+            ],
+              "ypr": [
+              0,
+              0,
+              0
+              ],
+              "scale": 1,
+              "enableCEPersistency": false
+          }
+			]
+            }

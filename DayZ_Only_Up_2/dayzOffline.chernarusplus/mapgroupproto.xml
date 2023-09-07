@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<prototype>
+		<defaults>
+				<default name="group" lootmax="6" />
+				<default name="container" lootmax="4" />
+				<default name="keepInvalidPoints" enabled="yes" />
+				<default name="clusterMatrix" de="TrajectoryApple" width="12" height="12"/>
+				<default name="clusterMatrix" de="TrajectoryStones" width="12" height="12"/>
+				<default name="clusterMatrix" de="TrajectoryConiferous" width="12" height="12"/>
+				<default name="clusterMatrix" de="TrajectoryDeciduous" width="12" height="12"/>
+				<default name="clusterMatrix" de="TrajectoryHumus" width="12" height="12"/>
+				<default name="clusterMatrix" de="TrajectoryPear" width="12" height="12"/>
+				<default name="clusterMatrix" de="TrajectoryPlum" width="12" height="12"/>
+<!--
+				<default name="clusterMatrix" de="TrajectoryStumps" width="12" height="12"/>
+-->
+		</defaults>
+		
+			<group name="Land_Roadblock_Table" lootmax="2">
+				<dispatch>
+					<proxy type="PersonalRadio" pos="0.165040 0.389160 0.763672" rpy="0.0 0.0 0.0" />
+					<proxy type="PersonalRadio" pos="-0.218750 0.389771 -0.591797" rpy="0.0 0.0 0.0" />
+				</dispatch>
+			</group>
+		
+			<group name="office_plane_table" lootmax="3">
+				 <dispatch>
+					<proxy type="Binoculars" pos="-0.404785 0.783783 0.041992" rpy="0.0 0.0 0.0" />
+					<proxy type="Binoculars" pos="-0.017578 0.783783 0.053222" rpy="0.0 0.0 0.0" />
+					<proxy type="Binoculars" pos="0.468262 0.783783 0.037597" rpy="0.0 0.0 0.0" />
+				</dispatch>
+			</group>
+			
+			<group name="medical_station" lootmax="3">
+				<dispatch>
+					<proxy type="VitaminBottle" pos="0.015625 1.053040 0.364258" rpy="0.0 0.0 0.0" />
+					<proxy type="VitaminBottle" pos="0.009766 1.053040 0.075196" rpy="0.0 0.0 0.0" />
+					<proxy type="VitaminBottle" pos="0.009766 1.053040 -0.222656" rpy="0.0 0.0 0.0" />
+				</dispatch>
+			</group>
+			
+			<group name="Land_Misc_Well_Pump_Blue" lootmax="5">
+				<usage name="Village" />
+				<container name="lootFloor">
+						<category name="food" />
+						<tag name="floor" />
+						<tag name="shelves" />
+						<point pos="0.197451 0.161392 -0.196373" range="0.134375" height="0.335938" />
+						<point pos="-0.156863 0.161392 0.186725" range="0.196284" height="0.490710" />
+						<point pos="0.529826 -0.360474 0.467464" range="0.305907" height="0.764768" />
+						<point pos="0.342345 -0.360474 -0.591604" range="0.316092" height="0.789749" />
+						<point pos="-0.703212 -0.360474 -0.084845" range="0.319824" height="0.798584" />
+				</container>
+			</group>
+
+</prototype>

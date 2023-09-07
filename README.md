@@ -12,6 +12,9 @@ Costs will go towards DayZ server costs and general content creation/streaming.
 
 Thank you!
 
+**Get a Nitrado game server today from my affiliate Link:**
+http://nitra.do/DonSibleyGames
+
 **Paypal:**
 https://paypal.me/DonSibleyGames
 

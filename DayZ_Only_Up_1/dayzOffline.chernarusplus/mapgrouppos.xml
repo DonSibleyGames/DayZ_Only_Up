@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<map>
+	<group name="Land_Misc_Well_Pump_Blue" pos="9239.813477 296.346252 11225.136719" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Misc_Well_Pump_Blue" pos="9239.614258 296.348785 11206.631836" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Misc_Well_Pump_Blue" pos="9303.724609 398.632721 11300.067383" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Misc_Well_Pump_Blue" pos="9193.287109 536.605530 11159.786133" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Misc_Well_Pump_Blue" pos="9537.422852 587.752808 11243.907227" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Misc_Well_Pump_Blue" pos="9771.585938 722.504578 11086.508789" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Misc_Well_Pump_Blue" pos="9212.437500 253.018372 11201.989258" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Misc_Well_Pump_Blue" pos="9214.042969 250.728378 11229.254883" rpy="-0.000000 -0.000000 0.000000" a="90"/>
+	<group name="Land_Misc_Well_Pump_Blue" pos="9219.158203 464.968811 11351.519531" rpy="0.000000 0.000000 0.000000" a="90"/>
+	<group name="office_plane_table" pos="9413.252930 588.740479 11173.549805" rpy="-0.000000 -0.000000 32.229286" a="57.7707"/>
+	<group name="medical_station" pos="9537.735352 587.385681 11240.597656" rpy="-0.000000 -0.000000 -5.872948" a="95.8729"/>
+	<group name="medical_station" pos="9772.257813 722.020203 11089.770508" rpy="-0.000000 -0.000000 13.321536" a="76.6785"/>
+	<group name="medical_station" pos="9194.154297 536.499756 11170.084961" rpy="-0.000000 -0.000000 -80.070450" a="170.07"/>
+	<group name="Land_Roadblock_Table" pos="9778.461914 722.312805 11098.061523" rpy="-0.000000 -0.000000 14.037410" a="75.9626"/>
+</map>
